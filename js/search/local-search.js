@@ -232,7 +232,7 @@ window.addEventListener("load", () => {
                   const element = dataTags[i].trim();
 
                   str +=
-                    '<a class="tag-list" href="/sun-Blog.github.io/tags/' +
+                    '<a class="tag-list" href="https://gitsirfhsakjhfaks.github.io/sun-Blog.github.io/tags/' +
                     element +
                     '/" data-pjax-state="" one-link-mark="yes">#' +
                     element +

@@ -1,3 +1,3 @@
-var posts=["技术与编程/Build/","实验室/Laboratory/","生活日常/life/","uncategorized/hello-world/"];function toRandomPost(){
+var posts=["实验室/Laboratory/","技术与编程/Build/","uncategorized/hello-world/","生活日常/life/"];function toRandomPost(){
     pjax.loadUrl('/sun-Blog.github.io/'+posts[Math.floor(Math.random() * posts.length)]);
   };
